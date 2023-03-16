@@ -56,7 +56,18 @@
         dominant-baseline='middle'
         x='0%' text-anchor='start'>
         <textPath xlink:href='#path3'>
-            Talk to me on my discord!
+            Lua game creator
         </textPath>
     </text>
+    dur='5000ms' fill='remove'
+                    values='m0,25 h0 ; m0,25 h400 ; m0,25 h400 ; m0,25 h0' keyTimes='0;0.8;0.8;1' />
+                    </path>
+    <text font-family='"monospace", monospace' fill='#36BCF7' font-size='20'
+        dominant-baseline='middle'
+        x='0%' text-anchor='start'>
+        <textPath xlink:href='#path2'>
+            Talk to me on discord
+        </textPath>
+    </text>
+        <path id='path3'>
 </svg>
